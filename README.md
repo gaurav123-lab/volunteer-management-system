@@ -12,7 +12,7 @@ This project was developed using the MERN Stack (MongoDB, Express.js, React.js, 
 
 ## Login Page
 
-![Login Page](./screeenshot/Screenshot2026-06-17121642.png)
+![Login Page](https://github.com/gaurav123-lab/volunteer-management-system/blob/934598a8e6779cb55f0f087bc65b14dbb2272b4e/screeenshot/Screenshot%202026-06-17%20121642.png)
 
 ## Registration Page
 
