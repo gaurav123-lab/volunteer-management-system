@@ -20,7 +20,7 @@ This project was developed using the MERN Stack (MongoDB, Express.js, React.js, 
 
 ## Volunteer Form
 
-![Volunteer Form](./screeenshot/Screenshot2026-06-17121930.png)
+![Volunteer Form](https://github.com/gaurav123-lab/volunteer-management-system/blob/92ef97cada1b5038b915f48b6b5283b8fce9af43/screeenshot/Screenshot%202026-06-17%20121930.png)
 
 ## Admin Dashboard
 
