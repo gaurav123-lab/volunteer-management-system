@@ -12,19 +12,19 @@ This project was developed using the MERN Stack (MongoDB, Express.js, React.js, 
 
 ## Login Page
 
-![Login Page](./screeenshot/login.png)
+![Login Page](./screeenshot/Screenshot2026-06-17121642.png)
 
 ## Registration Page
 
-![Registration Page](./screeenshot/register.png)
+![Registration Page](./screeenshot/Screenshot2026-06-17121716.png)
 
 ## Volunteer Form
 
-![Volunteer Form](./screeenshot/volunteer-form.png)
+![Volunteer Form](./screeenshot/Screenshot2026-06-17121930.png)
 
 ## Admin Dashboard
 
-![Admin Dashboard](./screeenshot/admin-dashboard.png)
+![Admin Dashboard](./screeenshot/Screenshot2026-06-17122108.png)
 
 ---
 
