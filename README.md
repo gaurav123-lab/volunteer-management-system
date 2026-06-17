@@ -24,7 +24,7 @@ This project was developed using the MERN Stack (MongoDB, Express.js, React.js, 
 
 ## Admin Dashboard
 
-![Admin Dashboard](./screeenshot/Screenshot2026-06-17122108.png)
+![Admin Dashboard](https://github.com/gaurav123-lab/volunteer-management-system/blob/15fac3bf8f91947a16e96c3d806874d9f2bf8ca3/screeenshot/Screenshot%202026-06-17%20122108.png)
 
 ---
 
